@@ -1,0 +1,6 @@
+@CitiManagerApi_HostAddress = http://localhost:5117
+
+GET {{CitiManagerApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
